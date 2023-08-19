@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front End Web Development, basics of AI/ML**
 
-- 📫 How to reach me **adityasn2003@gmail.com**
+- 📫 How to reach me: **adityasn2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and make good Coffee**
 
