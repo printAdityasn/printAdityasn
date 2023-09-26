@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I think I am funny and make good Coffee**
 
 - 😊will fill my  profile with projects soon (too much dried up rn )
+- ## ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityasn2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityasn2003" height="30" width="40" /></a>
