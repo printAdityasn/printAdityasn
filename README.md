@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Sunil Nadiger</h1>
+<h1 align="center">Hey 👾, How's it going?</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=Its%20Aditya%20here&textBg=false&fontAlign=50&fontSize=25"/>
+</p>
+
+
+###
 <h3 align="center">A passionate Engineering Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=printadityasn&label=Profile%20views&color=0e75b6&style=flat" alt="printadityasn" /> </p>
